@@ -6,5 +6,5 @@
  - define function 
  -lambda
  # in this research, I use
- how we put input 
- how we define variable
+ - how we put input 
+ - how we define variable
