@@ -13,3 +13,10 @@
 
  # Mathematic Operation
  - During this practice, I learn <, >, +=, -=, % and so on
+
+ # Sum.py folder
+ - During this code, I learn
+ - Mathematic Operation
+ - how we add two number
+ - how we put input
+ - why we use float
